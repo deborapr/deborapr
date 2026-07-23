@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 *"More is different."*
 -->
 
-# Hi, I'm Debora
+# About me
 
 I'm a physicist with a deep background in **complex systems** and **eco-evolutionary modeling**, now transitioning into data science, bringing rigorous quantitative thinking to real-world data problems.
 
