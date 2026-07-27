@@ -56,5 +56,17 @@ Now I'm expanding that toolkit toward applied data analysis, machine learning, a
 
 ## Let's connect
 
+📧 deborapr [at] gmail [dot] com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Debora%20Princepe-blue?logo=linkedin)](https://linkedin.com/in/debora-princepe)
+
+<!--
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deborapr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debora%20Princepe-blue?logo=linkedin)](https://linkedin.com/in/debora-princepe)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+-->
