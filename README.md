@@ -34,8 +34,8 @@ Now I'm expanding that toolkit toward applied data analysis, machine learning, a
 - Agent-based modeling · Stochastic simulations · Statistical analysis
 
 **Data science (in progress)**
-- Pandas · Seaborn · Scikit-learn · SQL
-- Exploratory data analysis · Regression · Classification
+- Pandas · Seaborn · Scikit-learn · SQL · PyTorch
+- Exploratory data analysis · Regression · Classification 
 
 ## What's in this GitHub
 
