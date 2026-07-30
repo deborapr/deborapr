@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a physicist with a deep background in **complex systems** and **eco-evolutionary modeling**, now transitioning into data science, bringing rigorous quantitative thinking to real-world data problems.
 
-## My path
+## My career
 
 I spent years building and analyzing **agent-based simulations** of eco-evolutionary systems: speciation, mito-nuclear co-evolution, population dynamics. That work taught me how to ask precise questions, handle noisy and high-dimensional data, and communicate results clearly, skills that translate directly into data science.
 
