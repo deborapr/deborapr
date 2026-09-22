@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 # About me
 
-I'm a physicist with a deep background in **complex systems** and **eco-evolutionary modeling**, now transitioning into data science, bringing rigorous quantitative thinking to real-world data problems.
+I'm a physicist with a deep background in **complex systems** and **eco-evolutionary modeling**, now applying rigorous quantitative thinking to data science, from exploratory analysis and predictive modeling to end-to-end ML pipelines.
 
 ## My career
 
 I spent years building and analyzing **agent-based simulations** of eco-evolutionary systems: speciation, mito-nuclear co-evolution, population dynamics. That work taught me how to ask precise questions, handle noisy and high-dimensional data, and communicate results clearly, skills that translate directly into data science.
 
-Now I'm expanding that toolkit toward applied data analysis, machine learning, and building projects that tell stories with data.
+Those skills now drive my work in data science: exploratory analysis, predictive modeling, and machine learning, built on the same foundation of statistical rigor and curiosity.
 
 ## What I work with
 
@@ -33,26 +33,26 @@ Now I'm expanding that toolkit toward applied data analysis, machine learning, a
 - Fortran · Python · Jupyter · NumPy · SciPy · Matplotlib
 - Agent-based modeling · Stochastic simulations · Statistical analysis
 
-**Data science (in progress)**
-- Pandas · Seaborn · Scikit-learn · SQL · PyTorch
-- Exploratory data analysis · Regression · Classification 
+**Data science**
+- Pandas · Seaborn · Scikit-learn · XGBoost · SQL · PyTorch
+- Exploratory data analysis · Regression · Classification · Time series forecasting
 
 ## What's in this GitHub
 
-- 🔬 **Research code** — simulations behind published papers in evolutionary biology and complex systems
-- 📊 **Data science projects** — applied analyses on real-world datasets (growing)
+- **Research code** — simulations behind published papers in evolutionary biology and complex systems
+- **Data science projects** — applied analyses on real-world datasets
 
 ## Background
 
 - PhD in Physics · Specialization in complex systems and biological modeling
 - Publications in journals including *Nature Ecology & Evolution* and *PNAS*
-- Experience translating scientific questions into computational models and extracting interpretable results to explain observable phenomena
+- Experience translating complex questions into computational models and extracting clear, interpretable results
 
 ## Currently
 
-- Building a data science portfolio with real-world datasets
+- DataCamp Certified Data Scientist 
 - Open to opportunities in data science, research analytics, and applied ML
-- Interested in roles at the intersection of science and data
+- Especially interested in roles where rigorous analysis and curiosity-driven exploration matter
 
 ## Let's connect
 
