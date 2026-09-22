@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # About me
 
-I'm a physicist with a deep background in **complex systems** and **eco-evolutionary modeling**, now applying rigorous quantitative thinking to data science, from exploratory analysis and predictive modeling to end-to-end ML pipelines.
+I'm a physicist with a deep background in **complex systems** and **eco-evolutionary modeling**. Now a DataCamp Certified Data Scientist, applying the same rigorous quantitative thinking to exploratory analysis, predictive modeling, and end-to-end ML pipelines.
 
 ## My career
 
@@ -50,8 +50,8 @@ Those skills now drive my work in data science: exploratory analysis, predictive
 
 ## Currently
 
-- DataCamp Certified Data Scientist 
-- Open to opportunities in data science, research analytics, and applied ML
+- Expanding into deep learning and production ML
+- Open to Data Scientist opportunities
 - Especially interested in roles where rigorous analysis and curiosity-driven exploration matter
 
 ## Let's connect
